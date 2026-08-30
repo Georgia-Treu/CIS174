@@ -1,2 +1,2 @@
-# CIS174---C-
+# CIS174
 Code I created for Advanced C#
